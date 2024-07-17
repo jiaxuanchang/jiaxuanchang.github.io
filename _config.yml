@@ -223,10 +223,10 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-twitter-plugin
-  - jemoji  
+  - jemoji
 
 # Sitemap settings
 defaults:
