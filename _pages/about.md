@@ -6,7 +6,7 @@ subtitle: PhD candidate in the <a href='https://ocean-physics.seos.uvic.ca/~jkly
 
 profile:
   align: right
-  image: IMG_6776.jpg
+  image: img_6776.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
     <div class="profile-more-info">
