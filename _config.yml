@@ -226,12 +226,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-twitter-plugin
-  - jemoji
-  
-jekyll-toc:
-  auto_insert: true
-  min_level: 1
-  max_level: 6
+  - jemoji  
 
 # Sitemap settings
 defaults:
