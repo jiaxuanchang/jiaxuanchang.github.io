@@ -56,7 +56,7 @@ permalink: /:categories/:year/:month/:day/:title.html
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
     <div id="table-of-contents">
-        <!-- {% toc %} -->
+        {{ content }}
     </div>
     <hr>
     {% endif %}
