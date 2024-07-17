@@ -69,6 +69,8 @@ permalink: /:categories/:year/:month/:day/:title.html
   {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
   <h2>References</h2>
   <div class="publications">
+      <!-- Debugging information -->
+        <p>Related publications: {{ page.related_publications }}</p>
     {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
   </div>
   {%- endif %}
