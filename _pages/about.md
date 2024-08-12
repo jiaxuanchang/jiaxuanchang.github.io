@@ -33,4 +33,4 @@ Currently, I have submitted my first paper and am in the final stages of my PhD 
   - [PDF](assets/pdf/preprint.pdf)
 - **Turbulence Generation via Nonlinear Lee Wave Trailing Edge Instabilities in Kuroshio-Seamount Interactions** (under review at *Journal of Geophysical Research-Oceans*)
   - Yu-Yu Yeh, Ming-Huei Chang, Ren-Chieh Lien, Jia-Xuan Chang, Jia-Lin Chen, Sen Jan, Yiing Jang Yang, and Anda Vladoiu
-- [Jia-Xuan Chang, *Dynamic of Kelvin-Helmholtz (KH) Billows Observed around Green Island, east of Taiwan*, Master's thesis, National Taiwan University, 2017](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68477?locale=en)
+- Jia-Xuan Chang, *Dynamic of Kelvin-Helmholtz (KH) Billows Observed around Green Island, east of Taiwan*, Master's thesis, National Taiwan University, 2017 [Link](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68477?locale=en)
