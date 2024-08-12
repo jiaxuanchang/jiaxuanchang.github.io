@@ -270,13 +270,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: [Chang]
-  first_name: [Jia-Xuan Julia]
-
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
