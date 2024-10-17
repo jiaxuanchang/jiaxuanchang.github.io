@@ -650,7 +650,7 @@ footer.sticky-bottom {
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     text-align: right;
   }
 
@@ -661,6 +661,8 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      margin-left: 1.5rem; 
+      padding-left: 0.5rem;
 
       .preview {
         width: 100%;
