@@ -28,12 +28,15 @@ Currently, I have submitted my first paper and am in the final stages of my PhD 
 - [My Resume](assets/pdf/resume.pdf)
 
 ### Publications
+
+#### Under Review
 - **Preprint: Saturation of Internal Tide Generation over Shallow Supercritical Topography** (submitted to *Journal of Physical Oceanography*)
   - Jia-Xuan Chang & Jody M. Klymak
   - [PDF](assets/pdf/preprint.pdf)
-- **Turbulence Generation via Nonlinear Lee Wave Trailing Edge Instabilities in Kuroshio-Seamount Interactions** (under review at *Journal of Geophysical Research-Oceans*)
-  - Yu-Yu Yeh, Ming-Huei Chang, Ren-Chieh Lien, Jia-Xuan Chang, Jia-Lin Chen, Sen Jan, Yiing Jang Yang, and Anda Vladoiu
+
+#### Published
 
 {% bibliography %}
 
+#### Thesis
 - Jia-Xuan Chang & Ming-Huei Chang, **Dynamic of Kelvin-Helmholtz (KH) Billows Observed around Green Island, east of Taiwan**, Master's thesis, National Taiwan University, 2017 [Link](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68477?locale=en)
