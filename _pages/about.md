@@ -24,7 +24,6 @@ I am a PhD candidate working with Prof. Jody M. Klymak on a project titled "Fjor
 
 Currently, I have submitted my first paper and am in the final stages of my PhD degree. I am passionate about expanding our understanding of internal wave dynamics and their implications for large-scale ocean modeling. If you have postdoctoral opportunities or potential collaborations in this field, please feel free to contact me.
 
-## My Resume
 - [My Resume](assets/pdf/resume.pdf)
 
 ## Publications
