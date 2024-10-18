@@ -411,7 +411,7 @@ footer.fixed-bottom {
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
+    padding-top: 7px;
     padding-bottom: 8px;
   }
 
@@ -657,10 +657,11 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 2rem;
+    margin-top: 0;
 
     li {
       margin-bottom: 1rem;
+      padding: 5rem;
 
       .preview {
         width: 100%;

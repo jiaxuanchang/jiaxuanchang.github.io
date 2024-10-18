@@ -30,9 +30,8 @@
         {%- endif -%}
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-14{% endif %}">
-        <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-lg-12{% endif %}">
+        
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
@@ -108,6 +107,9 @@
         {%- endif -%}
 
         </div>
+
+        <!-- Title -->
+        <div class="title">{{entry.title}}</div>
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
